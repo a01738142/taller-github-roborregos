@@ -1,0 +1,1 @@
+# aprendí a hacer fork y cómo solucionar cuando un merge no se puede hacer automáticamente

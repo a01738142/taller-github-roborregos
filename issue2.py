@@ -1,0 +1,1 @@
+#issue: lista de pendientes u oportunidades a mejorar en un repositorio

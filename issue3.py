@@ -1,0 +1,1 @@
+#un mcp es es un estándar abierto diseñado para conectar modelos de inteligencia artificial (LLMs) con herramientas, bases de datos y sistemas externos de forma segura y estructurada
